@@ -1,0 +1,2 @@
+# nortlar
+notlar değil nortlar 
