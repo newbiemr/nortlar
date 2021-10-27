@@ -1,0 +1,27 @@
+blog1
+
+>dotnet new console
+
+>code .
+
+C:\Users\xxx\xxx.vs\gradebook\src\GradeBook>dotnet run
+Hello World!
+
+C:\Users\xxx\xxx.vs\gradebook\src\GradeBook>dotnet build
+Microsoft (R) Build Engine version 17.0.0-preview-21329-01+1b7661f36 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  You are using a preview version of .NET. See: https://aka.ms/dotnet-core-preview
+  GradeBook -> C:\Users\xxx\xxx.vs\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.71
+
+C:\Users\xxx\xxx.vs\gradebook\src\GradeBook>dotnet C:\Users\xxx\xxx.vs\gradebook\src\GradeBook\bin\Debug\net6.0\GradeBook.dll
+Hello World!
+
